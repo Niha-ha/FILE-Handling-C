@@ -1,9 +1,10 @@
-# 📄 FILE creating and writing to it using C programming
+# 📄 FILE Creating and Writing to It Using C Programming
+
 This C program demonstrates **basic file handling** in the C language. It shows how to **open (or create) a file**, **write text** to it, and **close the file** properly.
 
 ---
 
-## 🧾 Program Overview
+## � Program Overview
 
 - Opens or creates a file named `data.txt`
 - Writes two lines of text to the file:
@@ -31,11 +32,13 @@ This C program demonstrates **basic file handling** in the C language. It shows 
 - `data.txt`: The file created or overwritten by the program
 
 ---
-// writing_to_file.c 
-// This program demonstrates basic file handling in C.
-// It opens a file, writes text to it, and then closes the file.
 
 ## 💻 Source Code
+
+```c
+// writing_to_file.c
+// This program demonstrates basic file handling in C.
+// It opens a file, writes text to it, and then closes the file.
 
 #include <stdio.h>
 
@@ -66,24 +69,10 @@ int main() {
     return 0;
 }
 
-
-## 📤 Sample Output
-
-**Console:**
-```
-Data successfully written to data.txt
-```
-
-**data.txt:**
-```
---- FILE HANDLING IN C ---
-Now, I am writing in this file.
 ```
 
 ---
 
-## 📚 References
+## 📚 Resource
 
-- [W3Schools – C File Handling](https://www.w3schools.com/c/c_files.asp)
-
-
+- [W3Schools - C File Handling](https://www.w3schools.com/c/c_files.asp)

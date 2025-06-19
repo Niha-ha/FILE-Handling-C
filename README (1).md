@@ -1,5 +1,5 @@
 
-# FileCreatingInC
+# File-Creating-In-C
 
 This C program demonstrates how to **create or open a file** using standard file handling functions in the C language.
 
@@ -7,7 +7,7 @@ This C program demonstrates how to **create or open a file** using standard file
 
 ## 📁 File Name
 
-`FileCreatingInC.c`
+`FILE Creating in C Programming.c`
 
 ---
 
